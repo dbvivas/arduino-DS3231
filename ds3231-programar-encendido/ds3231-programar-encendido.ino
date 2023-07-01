@@ -90,8 +90,7 @@ void printDate(DateTime date)
   Serial.println();
 
   //para hacer pruebas
-  int hora1 = 19;
-  
+  int hora1 = 9;  
   int minuto1 = 32; //se activar la alarma al minuto
   
   int segIni = 20;
